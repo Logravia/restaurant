@@ -1,1 +1,4 @@
-console.log("Hello, world");
+import {pageFormers} from "./pageload"
+
+pageFormers.menu();
+
